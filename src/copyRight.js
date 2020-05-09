@@ -9,7 +9,7 @@ const header = (props) =>(
     
 )
     header.defaultProps={
-        title: 'Copyright © Sampath Kuncham',
+        title: 'Copyright © Sampath Kuncham @2020',
         
     }
 export default header;
