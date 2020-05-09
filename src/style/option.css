@@ -1,0 +1,15 @@
+.option{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    border-bottom: 1px solid #464;
+}
+
+.option-text{
+    background: none;
+    color: white;
+    margin: 0;
+    font-size: 2rem;
+    font-weight: 500;
+    word-break: break-all;
+}

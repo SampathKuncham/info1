@@ -1,0 +1,22 @@
+.widget{
+    background: #3c4251;
+    display: flex;
+    color: white;
+    padding: 2rem;
+    justify-content: space-between;
+}
+.widget--title{
+    margin: 0;
+}
+.widget-T{
+    background: #464b5e;
+    margin-bottom: 5rem;
+}
+.widget-M{
+    background:none;
+    color: white;
+    margin:0;
+    text-align: center;
+    padding: 3rem;
+    border-bottom:1px solid #464;
+}

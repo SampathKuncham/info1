@@ -1,0 +1,21 @@
+.error{
+    color: white;
+    margin: 2rem 0 0 0;;
+    padding: 0 2rem;
+    font-style: italic;
+}
+
+.form{
+    display: flex;
+    padding: 2rem;
+}
+
+.input{
+    flex-grow: 1;
+    border: none;
+    color: white;
+    background:#3c4251;
+    padding: 2px;
+    font-size: 17px;
+    border-bottom: 1px solid #20222b;
+}
