@@ -1,4 +1,4 @@
-/*const {createServer} = require('http');
+const {createServer} = require('http');
 const express =require('express');
 const compression =require('compression');
 const morgan = require('morgan');
@@ -33,4 +33,4 @@ server.listen(PORT, err => {
     if(err) throw err;
 
     console.log('server started ');
-})*/
+})
